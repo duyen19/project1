@@ -1,6 +1,6 @@
 brakeman:
   comment: true
-  exit_code: 1024
+  exit_code: 0
   ignore: false
 bundle-audit:
   comment: true
@@ -8,25 +8,21 @@ bundle-audit:
   ignore: false
 eslint:
   comment: true
-  exit_code: 256
+  exit_code: 0
   ignore: false
 rails_best_practices:
   comment: true
-  exit_code: 256
+  exit_code: 0
   ignore: false
 reek:
   comment: true
-  exit_code: 512
-  ignore: false
-rspec:
-  comment: true
-  exit_code: 256
+  exit_code: 0
   ignore: false
 rubocop:
   comment: true
-  exit_code: 2560
+  exit_code: 0
   ignore: false
 scss-lint:
   comment: true
-  exit_code: 16896
+  exit_code: 0
   ignore: false
