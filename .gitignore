@@ -25,3 +25,5 @@ config/database.yml
 config/secrets.yml
 config/database.yml.example
 config/secrets.yml.example 
+.framgia-ci-reports/
+framgia_ci_integrate_steps.md
